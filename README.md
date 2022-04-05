@@ -1,6 +1,16 @@
-# flutter_qr_app
+# QRコードの読み取り、生成アプリ
 
-A new Flutter project.
+使用したライブラリ
+
+qr_code_scanner
+https://pub.dev/packages/qr_code_scanner
+
+webview_flutter
+https://pub.dev/packages/webview_flutter
+
+qr_flutter
+https://pub.dev/packages/qr_flutter
+
 
 ## Getting Started
 
